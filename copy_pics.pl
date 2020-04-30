@@ -7,7 +7,7 @@
 
 =head1 name
 
-CopyPics
+CopyPix
 
 =head1 DESCRIPTION
 
@@ -23,6 +23,8 @@ Earl Schellhous 2020
 GNU General Public License v3.0
 
 =head1 INSTALLATION
+
+Perl 5.18.4 was used to develop this
   
 Change constants DIR_1, DIR_2 and DIR_3 to your directories and run the script.
 Remove code for DIR_2 if not using SD card for photo storage
